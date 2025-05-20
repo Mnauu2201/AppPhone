@@ -1,0 +1,60 @@
+# IDE & project files
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# OS files
+.DS_Store
+*.log
+
+# Gradle files
+.gradle/
+**/gradle-wrapper.jar
+
+# Local config (SDK path, v.v.)
+local.properties
+
+# Build output
+**/build/
+*/build/
+
+# Captures & navigation editor
+captures/
+.navigation/
+
+# External native build / NDK
+.externalNativeBuild/
+.cxx/
+
+# Compiled files
+*.class
+*.dex
+
+# APKs & intermediates
+*.apk
+*.ap_
+
+# Java/Kotlin generated artifacts
+gen/
+bin/
+
+# ProGuard mapping
+mapping.txt
+
+# Keystore
+*.jks
+*.keystore
+
+# Google Services (Firebase, APIs)
+google-services.json
+
+# Android profiler
+*.hprof
+
+# Coverage reports (nếu có)
+coverage/
